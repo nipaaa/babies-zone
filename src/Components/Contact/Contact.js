@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div>
             <section class="text-gray-400 bg-green-200 body-font relative">
-  <div class="absolute inset-0 mt-24 ">
+  <div class="absolute inset-0 mt-24 hidden lg:block">
         <img src="./img/contact.jpg" alt="" />
   </div>
   <div class="container px-5 py-24 mx-auto flex">
